@@ -1,0 +1,30 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="143.797" height="103.017" viewBox="0 0 143.797 103.017">
+    <defs>
+        <style>
+            .cls-1,.cls-2{fill:none;stroke:#000;stroke-linecap:round;stroke-width:4px}.cls-1{stroke-linejoin:round}
+        </style>
+    </defs>
+    <g id="Group_1794" transform="translate(-909.72 -154.5)">
+        <g id="Group_1798" transform="translate(-1 26)">
+            <path id="Path_1336" d="M16341.089-4349.083l-13.345 13.345 13.345 13.345" class="cls-1" transform="translate(-15415.024 4513.273)"/>
+            <path id="Path_1337" d="M16341.089-4349.083l-13.345 13.345 13.345 13.345" class="cls-1" transform="rotate(180 8651.905 -2079.101)"/>
+            <path id="Line_502" d="M19 0L0 42" class="cls-2" transform="translate(935.5 156.5)"/>
+            <path id="Line_503" d="M18 0L0 0" class="cls-2" transform="translate(986.5 161.191)"/>
+            <path id="Line_504" d="M31 0L0 0" class="cls-2" transform="translate(995.5 177.5)"/>
+            <path id="Line_505" d="M17 0L0 0" class="cls-2" transform="translate(1035.5 177.5)"/>
+            <path id="Line_506" d="M26.105 0.309L0 0" class="cls-2" transform="translate(919.395 145.191)"/>
+            <path id="Line_507" d="M62 0L0 0" class="cls-2" transform="translate(954.5 145.5)"/>
+            <path id="Line_508" d="M36 0.309L0 0" class="cls-2" transform="translate(1016.5 161.191)"/>
+            <path id="Line_509" d="M38.895 0L0 0" class="cls-2" transform="translate(941.605 130.5)"/>
+            <path id="Line_510" d="M26.947 0L0 0" class="cls-2" transform="translate(991.553 130.5)"/>
+            <path id="Line_511" d="M11 0L0 0" class="cls-2" transform="translate(1026.5 145.191)"/>
+            <path id="Line_512" d="M31 0L0 0" class="cls-2" transform="translate(980.5 193.5)"/>
+            <path id="Line_513" d="M17 0L0 0" class="cls-2" transform="translate(1020.5 193.5)"/>
+            <path id="Line_514" d="M62 0L0 0" class="cls-2" transform="translate(919.5 211.5)"/>
+            <path id="Path_1338" d="M33.375 0H0" class="cls-2" transform="translate(991.5 211.191)"/>
+            <path id="Line_515" d="M18 0L0 0" class="cls-2" transform="translate(943.064 229.191)"/>
+            <path id="Line_516" d="M36 0.309L0 0" class="cls-2" transform="translate(973.064 229.191)"/>
+        </g>
+    </g>
+</svg>
